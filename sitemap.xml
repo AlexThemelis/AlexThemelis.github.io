@@ -2,18 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/bio/</loc>
+    <loc>https://alexthemelis.github.io/bio/</loc>
     <lastmod>2024-05-19T18:36:05+02:00</lastmod>
   </url><url>
-    <loc>/contact/</loc>
+    <loc>https://alexthemelis.github.io/contact/</loc>
     <lastmod>2024-05-19T17:59:43+02:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>https://alexthemelis.github.io/</loc>
   </url><url>
-    <loc>/about/</loc>
+    <loc>https://alexthemelis.github.io/about/</loc>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>https://alexthemelis.github.io/categories/</loc>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>https://alexthemelis.github.io/tags/</loc>
   </url>
 </urlset>
