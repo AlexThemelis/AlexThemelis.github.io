@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Alexandros Themelis</title>
+    <link>/</link>
+    <description>Recent content in About on Alexandros Themelis</description>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Short Bio</title>
+      <link>/bio/</link>
+      <pubDate>Sun, 19 May 2024 18:36:05 +0200</pubDate>
+      
+      <guid>/bio/</guid>
+      <description>Education Université Paris Cité M2 level MSc student at the Parisian Master of Research in Computer Science (MPRI)
+University of Athens Undergraduate degree in Dept. of Informatics &amp;amp; Telecommunications
+October 2019 - July 2023
+Track A (conforming to ACM “Computer Science” curriculum)
+Specialization: Foundations of Computer Science
+Thesis: Hash-based signatures via zk-SNARKs, supervised by Pyrros Chaidos
+Experience   Research Internship (April-August 2024), IRIF - Paris Cité University, ”Advanced Post-Quantum Signatures”,</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>/contact/</link>
+      <pubDate>Sun, 19 May 2024 17:59:43 +0200</pubDate>
+      
+      <guid>/contact/</guid>
+      <description> email: themelis at irif dot fr address: Office 3010, 8 place Aurélie Nemours, 75013 Paris  </description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/</guid>
+      <description>I am a MSc student at the Parisian Master of Research in Computer Science (MPRI) at Université Paris Cité.
+Currently, I&amp;rsquo;m doing my M2 internship at the Institut de Recherche en Informatique Fondamentale (IRIF), Université Paris Cité. I am lucky to be under the supervision of Geoffroy Couteau.
+In 2023, I graduated from the Department of Informatics &amp;amp; Telecommunications at the University of Athens.
+I am strongly interested in number-theoretic cryptography and especially &amp;ldquo;post-quantum&amp;rdquo; stuff.</description>
+    </item>
+    
+  </channel>
+</rss>
