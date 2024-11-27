@@ -12,10 +12,10 @@
       
       <guid>/bio/</guid>
       <description>Education University of Athens Master&amp;rsquo;s student in Pure Mathematics at the University of Athens.
-Université Paris Cité M2 level MSc student at the Parisian Master of Research in Computer Science (MPRI)
+Université Paris Cité Master&amp;rsquo;s degree at the Parisian Master of Research in Computer Science (MPRI)
 Specialization in Cryptography. Courses in Cryptography (theoretical aspects, post-quantum), Quantum Computation/Information and Graph Theory.
 Thesis: Threshold signature schemes based on lattice assumptions, supervised by Geoffroy Couteau and Sihang Pu
-University of Athens Undergraduate degree in Dept. of Informatics &amp;amp; Telecommunications</description>
+University of Athens Undergraduate degree at the Dept. of Informatics &amp;amp; Telecommunications, University of Athens</description>
     </item>
     
     <item>
@@ -24,7 +24,7 @@ University of Athens Undergraduate degree in Dept. of Informatics &amp;amp; Tele
       <pubDate>Sun, 19 May 2024 17:59:43 +0200</pubDate>
       
       <guid>/contact/</guid>
-      <description> email: themelisalex at irif dot fr  </description>
+      <description> email: alexthem at math dot uoa dot gr  </description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@ University of Athens Undergraduate degree in Dept. of Informatics &amp;amp; Tele
       <guid>/about/</guid>
       <description>I am a MSc student in Pure Mathematics at the University of Athens.
 In 2024, I graduated from the Parisian Master of Research in Computer Science (MPRI) at Université Paris Cité.
-I did my M2 internship at the Institut de Recherche en Informatique Fondamentale (IRIF). I was lucky to be under the supervision of Geoffroy Couteau and Sihang Pu. My internship was on the development of Threshold signature schemes based on lattice assumptions.</description>
+I did my master&amp;rsquo;s thesis at the Institut de Recherche en Informatique Fondamentale (IRIF). I was lucky to be under the supervision of Geoffroy Couteau and Sihang Pu. My internship was on the development of threshold signature schemes based on lattice assumptions.</description>
     </item>
     
   </channel>
