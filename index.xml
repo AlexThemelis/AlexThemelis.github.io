@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Alexandros Themelis</title>
+    <title>Hi/Salut/Γειά! on Alexandros Themelis</title>
     <link>/</link>
-    <description>Recent content in About on Alexandros Themelis</description>
+    <description>Recent content in Hi/Salut/Γειά! on Alexandros Themelis</description>
     <generator>Hugo -- gohugo.io</generator><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Short Bio</title>
@@ -25,17 +25,6 @@ University of Athens Master&amp;rsquo;s student in Pure Mathematics at the Unive
       
       <guid>/contact/</guid>
       <description> email: alexandros.themelis at etu.univ-grenoble-alpes dot fr  </description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Currently, I am an M2 student (2nd year MSc student) in Pure Mathematics at the Institut Fourier, Université Grenoble Alpes. The topic of the Master is &amp;ldquo;Algebraic, Differential and Probabilistic Complex Geometry, Lie Groups and Discrete Groups&amp;rdquo;.
-For the winter semester, I am currently following a course in Algebraic Geometry (by Catriona Maclean) and Complex Differential Geometry (by Philippe Eyssidieux).
-In 2025, I finished my 1st year of MSc in Pure Mathematics at the University of Athens, following core graduate courses in Algebra, Geometry and Analysis.</description>
     </item>
     
     <item>
